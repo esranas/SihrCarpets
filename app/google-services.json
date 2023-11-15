@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935169460532",
+    "project_id": "capstone-project-bf9ce",
+    "storage_bucket": "capstone-project-bf9ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935169460532:android:1185207cb0114b2ccdbd61",
+        "android_client_info": {
+          "package_name": "com.esrannas.capstoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeQnR9wnzDbu8GM0bQGU118NSzrbzvKco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
