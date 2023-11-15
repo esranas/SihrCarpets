@@ -11,7 +11,6 @@ import com.esrannas.capstoneproject.common.viewBinding
 import com.esrannas.capstoneproject.common.visible
 import com.esrannas.capstoneproject.databinding.FragmentSignUpBinding
 import com.google.android.material.snackbar.Snackbar
-import com.google.firebase.auth.FirebaseAuth
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
